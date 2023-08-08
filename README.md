@@ -1,4 +1,4 @@
-# Mastermind
+# Mastermind Code-Breaking Game
 
 Master Mind is a code-breaking game for two players – a code maker and a code breaker. With four pegs and six colors, there are 6^4 = 1296 different patterns (allowing duplicate colors). Varying the number of colors and the number of holes results in a spectrum of Mastermind games of different levels of difficulty.
 
